@@ -1,21 +1,18 @@
 ## Youngchae James Chee -- aka @litcoderr
 Welcome fellow developers. <br>
-I am interrested in Machine Learning + DevOps. <br>
+I am interrested in machine learning and mlOps.<br>
+My goal is to contribute to a machine learning project that can give interresting and positive effect to its users. <br>
 Overall, I love coding and try to learn as many things as I can. <br>
 
 -----------------------------------------------------------------------------------------
-### Resume
-- Hanyang Tech CSE (2019 freshman)
-- ex Daejeon Dongsin Science HighSchool (2018 graduate)
-- ex Naver Clova Winter Intern
-- ex SNU BILab Winter Intern
-- ex Lion Rocket Research Intern
+### Education
+- Hanyang Tech CSE freshman (2019-current)
+- ex Daejeon Dongsin Science HighSchool (2016-2018 graduate)
 
-### Facts
-- 🔭 I’m currently working on [CudaJazz](https://github.com/litcoderr/CudaJazz.git)
-- 🌱 I’m currently learning Cuda
-- 📫 How to reach me: [litcoder@gmail.com](mailto:litcoderr@gmail.com)
-- ⚡ Fun fact: Currently serving for the Korean Army
+### Dev Experience
+- ex Naver Clova Winter Intern (2019.01-2019.02)
+- ex SNU BILab Winter Intern (2020.01-2020.02)
+- ex Lion Rocket Research Intern (2020.05-2020.09)
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/litcoderr)](https://www.facebook.com/litcoderr)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=facebook&logoColor=white&link=https://www.instagram.com/jcheeeeee_z)](https://www.instagram.com/jcheeeeee_z)
