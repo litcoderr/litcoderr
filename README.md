@@ -3,7 +3,7 @@ Welcome fellow developers.<br>
 I am interrested in machine learning and serving the models for pratical tasks.<br>
 My goal is to contribute to a machine learning project that can give an interresting and positive impact to its users.<br>
 Overall, I love coding and try to learn as many things as I can.<br>
-Cheers
+Cheers 🎉
 
 -----------------------------------------------------------------------------------------
 ### Educations
