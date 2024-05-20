@@ -9,5 +9,6 @@ Feel free to check out my curriculum vitae to learn more about my background.
 
 Thank you
 
-[CV](https://litcoderr.github.io/#/)
+[ [CV](https://litcoderr.github.io/#/) ]
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-B23121?style=flat-square&logo=facebook&logoColor=white&link=mailto:litcoderr@gmail.com)](mailto:litcoderr@gmail.com)
