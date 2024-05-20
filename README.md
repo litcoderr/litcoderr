@@ -1,25 +1,13 @@
-## Youngchae James Chee
-Welcome fellow developers.<br>
-I am a believer of positive potentials of artificial intelligence.<br>
-My goal is to contribute to a project which will give positive impact to society. <br>
-Overall, I love coding and try to learn as many things as I can.<br>
-Cheers 🎉
+## Youngchae (James) Chee
+-----------------------------
 
------------------------------------------------------------------------------------------
-### Educations
-- Hanyang Tech CSE freshman (2019.03-current)
-- Daejeon Dongsin Science HighSchool (2016.03-2019.02)
+Hello, fellow researchers and developers!
 
-### Experiences
-- Lion Rocket Research Intern (2020.05-2020.09)
-- SNU BI Lab Winter Intern (2020.01-2020.02)
-- Naver Clova Winter Intern (2019.01-2019.02)
-- 2017 Intel International Science and Engineering Fair Alumni
+I’m an undergraduate computer science student at Hanyang University in Seoul, South Korea. I have a passion for coding and enjoy reading cutting-edge papers on machine learning. My goal is to contribute to the advancement of this technology.
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/litcoderr)](https://www.facebook.com/litcoderr)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=facebook&logoColor=white&link=https://www.instagram.com/jcheeeeee_z)](https://www.instagram.com/jcheeeeee_z)
+Feel free to check out my curriculum vitae to learn more about my background.
+
+Thank you
+
+[CV](https://litcoderr.github.io/#/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-B23121?style=flat-square&logo=facebook&logoColor=white&link=mailto:litcoderr@gmail.com)](mailto:litcoderr@gmail.com)
-
-[![James' GitHub Stats](https://github-readme-stats.vercel.app/api?username=litcoderr&theme=vue-dark)](https://github.com/litcoderr)
-
-![James' Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=litcoderr&theme=blue-green)
