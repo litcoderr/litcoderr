@@ -1,5 +1,4 @@
 ## Youngchae (James) Chee
------------------------------
 
 Hello, fellow researchers and developers!
 
